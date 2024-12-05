@@ -29,7 +29,7 @@ python -m pip install -r requirements.txt
 **clone the repo**
 ```bash
 git clone https://github.com/Pooja389/flask_web.git
-cd wtf
+cd flask_web
 ```
 **create and activate virtual environment**
 python -m venv venv
